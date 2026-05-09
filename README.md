@@ -26,6 +26,8 @@ Interested in:
 ### 🔍 Digital Forensics & Steganography
 Recovering hidden data from JPG images using forensic tools.
 
+👉 https://github.com/Harshita-Devi-Bandaru/digital-forensics-steganography/blob/main/README.md
+
 ### 🔐 Secure File Storage & RBAC
 Designed secure file storage with role-based access control.
 
