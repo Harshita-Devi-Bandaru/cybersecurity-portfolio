@@ -28,18 +28,20 @@ Recovering hidden data from JPG images using forensic tools.
 
 👉 https://github.com/Harshita-Devi-Bandaru/digital-forensics-steganography/tree/main
 
-### 🔐 Secure File Storage & RBAC
-Designed secure file storage with role-based access control.
-
-👉 https://github.com/Harshita-Devi-Bandaru/secure-file-storage-rbac/blob/main/README.md
-
 ### 🛡️ Conducting Vulnerability Assessment and Penetration Testing on a Simulated Web Application Environment
 Identified command injection vulnerabilities and mitigations.
 
 👉 https://github.com/Harshita-Devi-Bandaru/command-injection-vapt
 
-### 🌐 Web Application VAPT Lab
+### 🔐 Secure File Storage & RBAC
+Designed secure file storage with role-based access control.
+
+👉 https://github.com/Harshita-Devi-Bandaru/secure-file-storage-rbac/blob/main/README.md
+
+### 🌐 Vulnerability Assessment and Penetration Testing
 Tested web app using Nmap, Burp Suite, OWASP ZAP.
+
+👉 https://github.com/Harshita-Devi-Bandaru/Vulnerability-Assessment-and-Penetration-Testing/tree/main
 
 ---
 
