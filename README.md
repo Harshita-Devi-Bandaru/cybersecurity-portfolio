@@ -33,7 +33,7 @@ Designed secure file storage with role-based access control.
 
 👉 https://github.com/Harshita-Devi-Bandaru/secure-file-storage-rbac/blob/main/README.md
 
-### 🛡️ VAPT on Linux Web Application
+### 🛡️ Conducting Vulnerability Assessment and Penetration Testing on a Simulated Web Application Environment
 Identified command injection vulnerabilities and mitigations.
 
 👉 https://github.com/Harshita-Devi-Bandaru/command-injection-vapt
